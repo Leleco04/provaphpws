@@ -1,0 +1,39 @@
+.titulo-login {
+    background-color: rgb(230, 230, 230);
+    padding-left: 1rem;
+    padding-right: 10rem;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-bottom: none;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.input-login {
+    outline: rgb(76, 247, 253);
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+#btn-entrar {
+    background-color: green;
+    color: #fff;
+    font-size: 20px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border: none;
+    border-radius: 5px;
+}
+
+.login-container {
+    padding: 1rem;
+}
+
+.tela {
+    border: 1px solid lightgray;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}

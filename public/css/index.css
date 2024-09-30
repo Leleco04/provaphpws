@@ -1,0 +1,35 @@
+header {
+    margin-top: 5rem;
+    text-align: center;
+}
+
+.cards-login-container {
+    margin-top: 10rem;
+}
+
+h5 {
+    background-color: rgb(230, 230, 230);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 25vw;
+    padding-left: 1rem;
+}
+
+p {
+    padding-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+button {
+    margin-left: 1rem;
+}
+
+.card {
+    border: 1px solid lightgray;
+    padding-bottom: 1.5rem;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}

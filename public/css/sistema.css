@@ -1,0 +1,83 @@
+.btn-voltar {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 0.5rem 1rem;
+}
+
+.div-titulo-botao {
+    width: 78vw;
+}
+
+.div-botao {
+    width: 75%;
+}
+
+.barra {
+    width: 78vw;
+    height: 1px;
+    background-color: lightgray;
+    color: lightgray;
+    display: block;   
+}
+
+.tabela {
+    width: 78vw;
+}
+
+.titulo-form {
+    background-color: lightgray;
+    font-size: 20px;
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.btn-cancelar {
+    color: #000;
+    text-decoration: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin-left: 1rem;
+}
+
+.texto-campo {
+    font-weight: bold;
+}
+
+.input-cadastro-aluno {
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    outline: none;
+    margin-right: 1.5rem;
+    padding: 1rem;
+    width: 40rem;
+}
+
+form {
+    border-radius: 5px;
+}
+
+table {
+    border: 1px solid gray;
+}
+
+.btn-opcao {
+    border: 1px solid #000;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+}
+
+#btn-excluir {
+    background-color: red;
+}
+
+#btn-editar {
+    background-color: rgb(61, 61, 250);
+}

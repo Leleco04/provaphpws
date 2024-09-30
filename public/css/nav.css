@@ -1,0 +1,47 @@
+header {
+    border-bottom: 1px solid gray;
+    color: gray;
+    background-color: rgb(235,235,235);
+}
+
+img {
+    width: 10rem;
+    margin-left: 70.5vw;
+}
+
+h3 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+}
+
+ul {
+    list-style: none;
+}
+
+.nav-bar-link {
+    text-decoration: none;
+    font-size: 18px;
+}
+
+li {
+    margin-bottom: 1rem;
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+li:hover {
+    background-color: lightgray;
+}
+
+.texto-nav-lateral {
+    border-bottom: 1px solid gray;
+}
+
+#nav {
+    width: 20rem;
+    border-right: 1px solid gray;
+    height: 87.5vh;
+    background-color: rgb(235,235,235);
+}
